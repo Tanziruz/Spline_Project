@@ -3,7 +3,7 @@ const MainSection = () => {
     <>
       <section>
         <img
-          src="/gradient.png"
+          src="https://ik.imagekit.io/o8zmk0phf/gradient.png?updatedAt=1759155388166"
           alt="Graident-img"
           className="absolute top-0 right-0 opacity-60 -z-10"
         />
